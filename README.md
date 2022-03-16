@@ -1,3 +1,3 @@
-# chrome_extension_test
+# chrome_extension_demo
 
 a simple extension demo for Chrome
